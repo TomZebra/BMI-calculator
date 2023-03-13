@@ -18,7 +18,7 @@ Also install Nodemon to have an active server initialized.
 ```bash
 npm install -g nodemon
 ```
-Run localhost Server (port 3000)
+Run the app
 ```bash
 nodemon bmicalculator
 ```
