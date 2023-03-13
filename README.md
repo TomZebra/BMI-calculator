@@ -14,9 +14,13 @@ Download the files and run NPM
 npm i
 ```
 
-Also run a Nodemon instalation to have an active server initialized.
+Also install Nodemon to have an active server initialized.
 ```bash
 npm install -g nodemon
+```
+Run localhost Server (port 3000)
+```bash
+nodemon bmicalculator
 ```
 
 ## Usage
