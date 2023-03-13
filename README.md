@@ -24,7 +24,9 @@ npm install -g nodemon
 Enter your weight[kg] and height[m] and calculate your BMI.
 
 ## Visuals
-![Capture](https://user-images.githubusercontent.com/119517554/224714010-d978f410-11c7-4418-9ebf-67b21addb2f2.PNG)
+
+![Capture](https://user-images.githubusercontent.com/119517554/224714267-a8de366c-cd49-43cf-b3ab-1f9f64bf0cd8.PNG)
+
 
 
 ## Contributing
